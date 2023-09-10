@@ -1,9 +1,9 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal website of Emily Cooper"
-author = "Emily Cooper"
-copyright = "" # set to override the auto generated copyright using org info and now year
+title = "UD Procesamiento de datos en R"
+author = "José Luis Texcalac Sangrador"
+copyright = "©José Luis Texcalac Sangrador" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
 metaDataFormat = "yaml"
@@ -28,12 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  orgName = "Escuela de Salud Pública de México"
+  orgLocal = "Cuernavaca, Mor."
+  description = "Escuela de Salud Pública de México - Instituto Nacional de Salud Pública"
+  favicon = "/img/insp.ico"
+  logo = "/img/insp.png"
+  mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -43,12 +43,12 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "texcalac"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "violet"
+  theme = "grayscale"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -74,25 +74,29 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
+      icon      = "user" # icon name without the 'fa-'
+      icon_pack = "fa"
+      url       = "https://texcalac.netlify.app"
+  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://texcalac.netlify.app"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://orcid.org/0000-0003-4507-9237"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://www.researchgate.net/profile/Jose-Luis-Texcalac-Sangrador"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=L2Q2fI4AAAAJ"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "https://twitter.com/texcalac"
 
 [taxonomies]
   category = "categories"
@@ -101,24 +105,24 @@ enableEmoji = true
 
 [menu]
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
+    name = "Acerca de..."
+    title = "Acerca del curso"
     url = "/about/"
     weight = 1
+  [[menu.header]]
+    name = "Clases"
+    title = "Contenido de cada clase"
+    url = "/talk/"
+    weight = 2
+  [[menu.header]]
+    name = "Materiales"
+    title = "Material de apoyo"
+    url = "/project/"
+    weight = 3  
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
     weight = 4
     
   # Configure footer  

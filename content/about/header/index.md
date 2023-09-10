@@ -1,9 +1,9 @@
 ---
 ## Configure header of page
 text_align_right: false
-show_title_as_headline: false
+show_title_as_headline: true
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Acerca del curso.
 ---
 
 <!-- this is a subheadline -->

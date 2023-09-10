@@ -1,26 +1,26 @@
 ---
-title: Talks that Last
+title: Contenido de cada sesión y laboratorios
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  Sección que contiene el desglose de cada una de las clases del curso, laboratorios y diapositivas.
+author: "@José Luis Texcalac Sangrador"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 show_post_time: true
 # for listing page layout
-layout: list # list, list-sidebar
+layout: list-sidebar # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks that Last
+  title: "En esta sección usted podrá:"
   description: |
-    This is a list for your talks, workshops, or 
-    other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
+    - Revisar las actividades que usted deberá desarrollar antes de cada sesión.
     
-    Check out the _index.md file in the /talk folder 
-    to edit this content. 
-  author: "The R Markdown Team @RStudio"
+    - Descargar las instrucciones de los laboratorios a resolver en casa.
+    
+    - Descargar las presentaciones de cada sesión.
+    
+  author: "@José Luis Texcalac Sangrador"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container

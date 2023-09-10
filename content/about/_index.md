@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Acerca de..."
 description: |
-  A Hugo theme made for R Markdown users.
-show_header: true
+  Breve descripción del curso y su contenido.
+show_header: false
 sidebar_left: false
 # Keep this! Do not edit.
 cascade:
