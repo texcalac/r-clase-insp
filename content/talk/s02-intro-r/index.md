@@ -27,6 +27,8 @@ Previo a esta sesión usted debió haber realizado las siguientes actividades.
 
 **1. Realizar el Laboratorio 1**
 
+Descargue las indicaciones del laboratorio y ejecute las actividades que se le indican.
+
 **2. Ver video: [¿Qué es R y para qué nos sirve?](https://youtu.be/3hR2A2nCI4U) (7 minutos)**
 
 Este video nos explica de forma clara y sencilla los orígenes de R, nos define lo que es el software y nos resume sus ventajas y desventajas.
@@ -38,9 +40,6 @@ Este video nos aporta razones para usar R y sus ventajas sobre otros paquetes co
 **4. Instalar R y RStudio siguiendo las [instrucciones de instalación](static/labs/Lab.pdf)**
 
 Revise y siga con cuidado las indicaciones que aquí se le proporcionan para un mejor funcionamiento de R durante el curso.
-
-**5. Enviar por correo electrónico los resultados del laboratorio 1**
-Para evaluar en Google Classroom esta actividad, suba una captura de pantalla del correo electrónico de su último ejercicio.
 
 &nbsp;
 
