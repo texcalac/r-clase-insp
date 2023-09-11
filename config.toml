@@ -78,10 +78,6 @@ enableEmoji = true
       icon_pack = "fa"
       url       = "https://texcalac.netlify.app"
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://texcalac.netlify.app"
-  [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0003-4507-9237"

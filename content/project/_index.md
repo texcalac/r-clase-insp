@@ -1,6 +1,6 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
+title: Material de apoyo
+description: "Hipervínculos de utilidad que le servirán para reforzar y complementar los contenidos del curso"
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true

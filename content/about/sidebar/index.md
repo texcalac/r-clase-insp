@@ -6,14 +6,14 @@ avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false
 audio_link_label: ""
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "Intereses" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: INSP
+  url: https://www.insp.mx
+- name: ISEE
+  url: https://www.iseepi.org
+- name: LANOT-UNAM
+  url: https://www.lanot.unam.mx
 ---
 
 ** index doesn't contain a body, just front matter above.
