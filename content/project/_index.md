@@ -1,7 +1,7 @@
 ---
 title: Material de apoyo
 description: "Hipervínculos de utilidad que le servirán para reforzar y complementar los contenidos del curso"
-author: "The R Markdown Team @RStudio"
+author: "José Luis Texcalac Sangrador"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
