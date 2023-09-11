@@ -37,7 +37,7 @@ Este video nos explica de forma clara y sencilla los orígenes de R, nos define 
 
 Este video nos aporta razones para usar R y sus ventajas sobre otros paquetes comerciales como STATA, SAS u otro..
 
-**4. Instalar R y RStudio siguiendo las [instrucciones de instalación](static/labs/Lab.pdf)**
+**4. Instalar R y RStudio siguiendo las instrucciones de instalación contenidas en el archivo correspondiente en Google classroom**
 
 Revise y siga con cuidado las indicaciones que aquí se le proporcionan para un mejor funcionamiento de R durante el curso.
 
