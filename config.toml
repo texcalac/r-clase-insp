@@ -113,7 +113,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Materiales"
     title = "Material de apoyo"
-    url = "/project/"
+    url = "/material/"
     weight = 3  
   [[menu.header]]
     name = "Blog"
