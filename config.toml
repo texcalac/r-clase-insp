@@ -108,7 +108,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Clases"
     title = "Contenido de cada clase"
-    url = "/talk/"
+    url = "/clases/"
     weight = 2
   [[menu.header]]
     name = "Materiales"
