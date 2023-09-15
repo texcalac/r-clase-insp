@@ -2,7 +2,7 @@
 title: "Sesión 02 - Introducción al uso de R y RStudio"
 subtitle: "14 de septiembre de 2023"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
-date: 2023-09-07
+date: 2023-09-14
 author: "José Luis Texcalac Sangrador"
 draft: false
 layout: single
@@ -15,7 +15,7 @@ links:
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab.pdf
+  url: labs/Lab_02.pdf
 ---
 
 ## Actividades para esta sesión 
