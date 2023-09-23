@@ -12,7 +12,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S03_Markdown.pdf
 - icon: flask
   icon_pack: fas
   name: lab
