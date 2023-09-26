@@ -9,10 +9,11 @@ stop_server()
 
 # generar nueva publicación
 # Con esto puedo generar una nueva publicación en "clases"
-new_post(title = "s03-markdown", 
+new_post(title = "s04-tidy-data", 
+         date = "", 
+         author = "José Luis Texcalac Sangrador", 
          subdir = "clases", 
-         ext = ".md", 
-         date = "")
+         ext = ".md")
 
 # Con esto puedo generar una nueva publicación en el blog
 new_post(title = "prueba", 
