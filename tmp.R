@@ -9,7 +9,7 @@ stop_server()
 
 # generar nueva publicación
 # Con esto puedo generar una nueva publicación en "clases"
-new_post(title = "s04-tidy-data", 
+new_post(title = "s05-tidyverse", 
          date = "", 
          author = "José Luis Texcalac Sangrador", 
          subdir = "clases", 
