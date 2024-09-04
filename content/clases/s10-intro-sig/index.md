@@ -2,7 +2,7 @@
 title: "Sesión 10 - Introducción a los SIG"
 subtitle: "30 de noviembre de 2023"
 excerpt: "Procesamiento y visualización de datos espaciales usando el paquete sf"
-date: '2023-11-30'
+date: "2024-11-01"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

@@ -2,7 +2,7 @@
 title: "Sesión 07 - Tidyverse {ggplot2}"
 subtitle: "26 de octubre de 2023"
 excerpt: "Procesamiento de datos usando verbos de dplyr"
-date: '2023-10-26'
+date: "2024-11-01"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

@@ -2,7 +2,7 @@
 title: "Sesión 09 - Resolución de Laboratorio 08"
 subtitle: "16 de noviembre de 2023"
 excerpt: "Procesamiento de datos usando verbos de dplyr"
-date: '2023-11-16'
+date: "2024-11-01"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

@@ -3,7 +3,7 @@ title: "Sesión 03 - Generación de informes con Markdown"
 subtitle: "21 de septiembre de 2023"
 excerpt: "Sesión de introducción al uso de R, Quarto y Markdown para la generación de 
   informes."
-date: "2023-09-14"
+date: "2024-11-01"
 author: "José Luis Texcalac Sangrador"
 draft: false
 layout: single

@@ -2,7 +2,7 @@
 title: "Sesión 08 - Tidyverse {stringr, forcats}"
 subtitle: "09 de noviembre de 2023"
 excerpt: "Procesamiento de datos de texto y factores usando los paquetes stringr y forcats"
-date: '2023-11-09'
+date: "2024-11-01"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

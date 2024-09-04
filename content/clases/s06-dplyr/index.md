@@ -2,7 +2,7 @@
 title: "Sesión 06 - Tidyverse {dplyr}"
 subtitle: "19 de octubre de 2023"
 excerpt: "Procesamiento de datos usando verbos de dplyr"
-date: '2023-10-19'
+date: "2024-11-01"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

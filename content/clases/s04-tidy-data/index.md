@@ -2,7 +2,7 @@
 title: "Sesión 04 - Introducción al Tidy Data"
 subtitle: "28 de septiembre de 2023"
 excerpt: "Sesión de introducción a la gestión y procesamiento de datos usando la filosofía del Tidy Data"
-date: '2023-09-21'
+date: "2024-11-01"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single
