@@ -15,8 +15,11 @@ options(
   blogdown.method = "markdown", 
   blogdown.author = "José Luis Texcalac Sangrador",
   blogdown.ext = ".Rmarkdown",
-  blogdown.subdir = "sesiones"
+  # la siguiente línea era del blog 2023
+  # blogdown.subdir = "sesiones"
+  # La siguiente línea sustituye a la previa del 2023
+  blogdown.subdir = "clases"
 )
 
 # pin Hugo version
-options(blogdown.hugo.version = "0.80.0")
+options(blogdown.hugo.version = "0.86.0")
