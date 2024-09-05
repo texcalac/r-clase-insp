@@ -11,11 +11,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S02_Intro_R.pdf
+  url: slides/Diapos.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_02.pdf
+  url: labs/Lab.pdf
 ---
 
 ## Actividades para esta sesión 
