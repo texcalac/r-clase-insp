@@ -1,8 +1,8 @@
 ---
 title: "Sesión 02 - Introducción al uso de R y RStudio"
-subtitle: "14 de septiembre de 2023"
+subtitle: "10 de septiembre de 2024"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
-date: "2024-11-01"
+date: "2024-09-05"
 author: "José Luis Texcalac Sangrador"
 draft: false
 layout: single
@@ -25,35 +25,35 @@ Previo a esta sesión usted debió haber realizado las siguientes actividades.
 
 ### Obligatorias
 
-**1. Realizar el Laboratorio 1**
+**1. Instalar R y RStudio según la [guía de instalación](/files/Instalar_R_y_RStudio.pdf)**
 
-Descargue las indicaciones del laboratorio y ejecute las actividades que se le indican.
+Usted debió revisar con detenimiento la guía e instalar los programas según las indicaciones así como también los programas complementarios de acuerdo al sistema operativo que usted utiliza (Rtools, Xcode, etc.)
 
-**2. Ver video: [¿Qué es R y para qué nos sirve?](https://youtu.be/3hR2A2nCI4U) (7 minutos)**
+**2. Revisar el videotutorial de [R Programming with Email Notification](https://youtu.be/GHa4kr_JOoE)**
 
-Este video nos explica de forma clara y sencilla los orígenes de R, nos define lo que es el software y nos resume sus ventajas y desventajas.
+Usted debió consultar el videotutorial con instrucciones de instalación y ejecución del curso que usted entregó a través de Google Classroom (11 minutos).
 
-**3. Ver video: [R programming for beginners - Why you should use R](https://youtu.be/9kYUGMg_14s) (4 minutos)**
+**3. Realizar el Laboratorio 01**
 
-Este video nos aporta razones para usar R y sus ventajas sobre otros paquetes comerciales como STATA, SAS u otro..
+Debió descargar las indicaciones del laboratorio, ejecutar las actividades que se le indicaron y haberlo entregado a través de Google Classroom.
 
-**4. Instalar R y RStudio siguiendo las instrucciones de instalación contenidas en el archivo correspondiente en Google classroom**
+**4. Ver video: [¿Qué es R y para qué nos sirve?](https://youtu.be/3hR2A2nCI4U) (7 minutos)**
 
-Revise y siga con cuidado las indicaciones que aquí se le proporcionan para un mejor funcionamiento de R durante el curso.
+Este video explica de forma clara y sencilla los orígenes de R, define lo que es el software y resume sus ventajas y desventajas.
+
+**5. Ver video: [R programming for beginners - Why you should use R](https://youtu.be/9kYUGMg_14s) (4 minutos)**
+
+Este video aporta razones para usar R y sus ventajas sobre otros paquetes comerciales como STATA, SAS u otro..
 
 &nbsp;
 
 ### Optativas
 
-**1. Revisar video tutorial de [instalación de R y RStudio](https://youtu.be/k0oCZdJPsDU) (16 minutos).**
+**1. Revisar video tutorial de [instalación de R, RStudio y Rtools](https://youtu.be/k0oCZdJPsDU) (16 minutos).**
 
-En caso de dudas con las instrucciones de instalación, puede revisar este video que le mostrará de forma visual los pasos a seguir para la instalación de R y RStudio.
+En caso de dudas con las instrucciones de instalación, puede revisar este video que le mostrará de forma visual los pasos a seguir para la instalación de R, RStudio y Rtools.
 
-**2. Revisar video tutorial del laboratorio 1 [Aprende R con swirl](https://youtu.be/GHa4kr_JOoE)**
-
-Consulte este video si tiene dudas para la realización del primer laboratorio, le mostrará las indicaciones para instalar el paquete y los pasos para ejecutar el tutorial.
-
-**3. Escuchar episodio de podcast [Uso de R para Ciencia de Datos](https://anchor.fm/datos-en-accion/episodes/Uso-de-R-para-Ciencia-de-Datos-e411di/a-abbudj)**
+**2. Escuchar episodio de podcast [Uso de R para Ciencia de Datos](https://anchor.fm/datos-en-accion/episodes/Uso-de-R-para-Ciencia-de-Datos-e411di/a-abbudj)**
 
 En este episodio un profesor del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS) de la UNAM comparte información sobre R.
 
