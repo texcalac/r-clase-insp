@@ -27,3 +27,4 @@ Descargue la [guía de instalación](/files/Instalar_R_y_RStudio.pdf) y siga tod
 - Es necesario siga al pie de la letra las indicaciones de la guía
 
 - No omita la instalación de los programas adicionales
+
