@@ -1,10 +1,11 @@
 ---
 ## Configure page content in wide column
-title: "Acerca del curso" # leave blank to exclude
+title: "Procesamiento y visualización de datos espaciales en R" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
+  ## Acerca del curso  
   El aprendizaje del procesamiento de datos y el análisis espacial de los eventos en salud, forman parte de las competencias profesionales escenciales en la formación epidemiológica e indispensable en el campo de la Salud Ambiental.
   
   Este curso proporcionará las herramientas básicas para la comprensión y análisis de problemas desde una perspectiva espacial, gestará las habilidades para maximizar el aprovechamiento de las herramientas y capacidades que R permite. Los datos que se procesarán durante el curso corresponderán a información real y actualizada en salud ambiental.
