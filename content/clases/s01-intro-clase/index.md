@@ -2,7 +2,7 @@
 title: "Sesión 01 - Introducción al curso"
 subtitle: "07 de septiembre de 2023"
 excerpt: "Sesión de introducción a los contenidos del curso, forma de evaluación y consideraciones generales."
-date: 2023-09-01
+date: 2024-09-09
 author: "José Luis Texcalac Sangrador"
 draft: false
 layout: single
@@ -21,3 +21,9 @@ links:
 ## Sesión de Introducción 
 En esta sesión se compartirá información de la clase, la logística del curso y 
 la forma de evaluar.
+
+Descargue la [guía de instalación](/files/Instalar_R_y_RStudio.pdf) y siga todas las indicaciones que el documento refiere, esta actividad es **obligatoria**.
+
+- Es necesario siga al pie de la letra las indicaciones de la guía
+
+- No omita la instalación de los programas adicionales
