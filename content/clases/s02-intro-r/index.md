@@ -11,7 +11,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S02_Intro_R_parte1.pdf
 - icon: flask
   icon_pack: fas
   name: lab
