@@ -21,6 +21,13 @@ links:
 ## Actividades para esta sesión 
 
 
+**Instale los siguientes paquetes**
+- haven
+- janitor
+- readxl
+- lubridate
+
+**Descargue de Google Classroom los archivos necesarios para esta sesión**
 
 &nbsp;
 
