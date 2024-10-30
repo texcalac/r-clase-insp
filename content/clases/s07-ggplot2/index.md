@@ -1,7 +1,7 @@
 ---
 title: "Sesión 07 - Tidyverse {ggplot2}"
 subtitle: "22 de octubre de 2024"
-excerpt: "Procesamiento de datos usando verbos de dplyr"
+excerpt: "Visualización de datos con ggplot2"
 date: "2024-10-22"
 author: José Luis Texcalac Sangrador
 draft: false
@@ -11,7 +11,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S07_Tidyverse_ggplot2.pdf
+  url: slides/S07_Tidyverse_ggplot2_parte1.pdf
 - icon: flask
   icon_pack: fas
   name: lab
