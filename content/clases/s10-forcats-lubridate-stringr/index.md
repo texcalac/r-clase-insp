@@ -1,8 +1,8 @@
 ---
-title: "Sesión 06 - Tidyverse {dplyr}"
-subtitle: "19 de octubre de 2023"
-excerpt: "Procesamiento de datos usando verbos de dplyr"
-date: "2024-11-01"
+title: "Sesión 10 - Tidyverse {forcats, lubridate. stringr}"
+subtitle: "07 de noviembre de 2024"
+excerpt: "Trabajando con factores, fechas y datos de texto"
+date: "2024-11-07"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single
@@ -11,11 +11,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S06_Tidyverse_dplyr.pdf
+  url: slides/S10_forcats_lubridate_stringr.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_06.pdf
+  url: labs/Lab.pdf
 ---
 
 ## Actividades para esta sesión 
@@ -33,4 +33,3 @@ diapositivas de la sesión esten disponibles.
 indicaciones del laboratorio a desarrollar sean publicadas.
 
 &nbsp;
-
