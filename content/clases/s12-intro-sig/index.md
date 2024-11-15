@@ -33,7 +33,7 @@ comprobantes que se le indican en el archivo de instrucciones correspondiente.
 
 **2. Realizar la siguiente lectura** 
 
-Ustede deberá leer hasta la página 37 de este libro.
+Usted deberá leer hasta la página 37 de este libro.
 
 [Introducción a los Sistemas de Información Geográfica]( https://openaccess.uoc.edu/bitstream/10609/53645/1/Introducción%20a%20los%20sistemas%20de%20información%20geográfica.pdf)
 
