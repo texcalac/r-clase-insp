@@ -1,6 +1,6 @@
 ---
 title: "Sesión 15 - Mapas temáticos - Taller"
-subtitle: "03 de diciembre de 2024"
+subtitle: "10 de diciembre de 2024"
 excerpt: "Taller en dónde se aplicará lo visto en clase usando datos de COVID"
 date: "2024-12-10"
 author: José Luis Texcalac Sangrador
