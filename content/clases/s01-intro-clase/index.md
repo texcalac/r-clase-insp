@@ -1,8 +1,8 @@
 ---
 title: "Sesión 01 - Introducción al curso"
-subtitle: "05 de septiembre de 2024"
+subtitle: "04 de septiembre de 2025"
 excerpt: "Sesión de introducción a los contenidos del curso, forma de evaluación y consideraciones generales."
-date: 2024-09-05
+date: 2025-09-04
 author: "José Luis Texcalac Sangrador"
 draft: false
 layout: single
