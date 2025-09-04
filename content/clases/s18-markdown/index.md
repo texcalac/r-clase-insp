@@ -1,7 +1,7 @@
 ---
 title: "Sesión 18 - Markdown"
 author: "José Luis Texcalac Sangrador"
-date: "2025-01-14"
+date: "2026-02-28"
 excerpt: Redacción de documentos e informes utilizando Markdown
 subtitle: 14 de enero de 2025
 draft: false
