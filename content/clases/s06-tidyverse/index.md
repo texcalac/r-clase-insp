@@ -2,7 +2,7 @@
 title: "Sesión 06 - Tidyverse: Procesamiento de datos (parte 3)"
 subtitle: "15 de octubre de 2024"
 excerpt: "Procesamiento de datos - parte 3"
-date: "2024-10-15"
+date: "2026-02-28"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

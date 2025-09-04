@@ -1,7 +1,7 @@
 ---
 title: "Sesión 17 - Operaciones de análisis espacial"
 author: "José Luis Texcalac Sangrador"
-date: "2025-01-07"
+date: "2026-02-28"
 excerpt: Operaciones de análisis espacial
 subtitle: 07 de enero de 2025
 draft: false

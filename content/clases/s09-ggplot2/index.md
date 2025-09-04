@@ -2,7 +2,7 @@
 title: "Sesión 09 - Tidyverse {ggplot2}"
 subtitle: "05 de noviembre de 2024"
 excerpt: "Visualización de datos con ggplot2"
-date: "2024-11-05"
+date: "2026-02-28"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

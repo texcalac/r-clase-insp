@@ -2,7 +2,7 @@
 title: "Sesión 12 - Introducción a los SIG"
 subtitle: "12 de noviembre de 2024"
 excerpt: "Introducción a los Sistemas de Información Geográfica"
-date: "2024-11-14"
+date: "2026-02-28"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

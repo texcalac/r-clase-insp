@@ -2,7 +2,7 @@
 title: "Sesión 10 - Tidyverse {forcats, lubridate. stringr}"
 subtitle: "07 de noviembre de 2024"
 excerpt: "Trabajando con factores, fechas y datos de texto"
-date: "2024-11-07"
+date: "2026-02-28"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

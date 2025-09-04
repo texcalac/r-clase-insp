@@ -2,7 +2,7 @@
 title: "Sesión 04 - Tidyverse: Procesamiento de datos"
 subtitle: "26 de septiembre de 2024"
 excerpt: "Procesamiento de datos usando verbos de dplyr"
-date: "2024-09-26"
+date: "2026-02-28"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

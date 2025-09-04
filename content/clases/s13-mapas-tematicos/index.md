@@ -1,7 +1,7 @@
 ---
 title: "Sesión 13 - Mapas temáticos"
 author: "José Luis Texcalac Sangrador"
-date: "2024-11-26"
+date: "2026-02-28"
 excerpt: Datos con atributos espaciales y cartografía temática
 subtitle: 26 de noviembre de 2024
 draft: false

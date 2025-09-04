@@ -2,7 +2,7 @@
 title: "Sesión 14 - Datos espaciales - Taller"
 subtitle: "03 de diciembre de 2024"
 excerpt: "Taller en dónde se aplicará lo visto en clase usando datos de COVID"
-date: "2024-12-03"
+date: "2026-02-28"
 author: José Luis Texcalac Sangrador
 draft: false
 layout: single

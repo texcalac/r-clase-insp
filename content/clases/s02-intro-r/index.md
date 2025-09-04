@@ -2,7 +2,7 @@
 title: "Sesión 02 - Introducción al uso de R y RStudio"
 subtitle: "10 de septiembre de 2024"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
-date: "2024-09-05"
+date: "2026-02-28"
 author: "José Luis Texcalac Sangrador"
 draft: false
 layout: single

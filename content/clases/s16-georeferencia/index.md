@@ -1,7 +1,7 @@
 ---
 title: "Sesión 16 - Georeferencia y Tmap"
 author: "José Luis Texcalac Sangrador"
-date: "2024-12-17"
+date: "2026-02-28"
 excerpt: Georeferencia de datos y mapas temáticos utilizando el paquete *Tmap*
 subtitle: 17 de diciembre de 2024
 draft: false
