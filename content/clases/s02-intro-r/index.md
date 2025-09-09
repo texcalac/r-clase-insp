@@ -1,8 +1,8 @@
 ---
 title: "Sesión 02 - Introducción al uso de R y RStudio"
-subtitle: "10 de septiembre de 2024"
+subtitle: "11 de septiembre de 2025"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
-date: "2026-02-28"
+date: "2025-11-08"
 author: "José Luis Texcalac Sangrador"
 draft: false
 layout: single
@@ -11,11 +11,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S02_Intro_R_parte1.pdf
+  url: slides/Diapos.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_02.pdf
+  url: labs/Lab.pdf
 ---
 
 ## Actividades para esta sesión 

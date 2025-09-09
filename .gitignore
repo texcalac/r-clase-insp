@@ -6,3 +6,6 @@
 /resources/
 .DS_Store
 Thumbs.db
+.Rdata
+.httr-oauth
+.quarto
