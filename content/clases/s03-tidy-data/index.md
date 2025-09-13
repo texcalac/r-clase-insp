@@ -60,3 +60,7 @@ En este video usted profundizará con mayor detalle en los principios del Tidy D
 
 &nbsp;
 
+**2. Leer capítulo 5 "[Data tidying](https://r4ds.hadley.nz/data-tidy.html)"** 
+- Wickham H, Grolemund G. R for data science (2e): import, tidy, transform, visualize, and model data. Second edition. Sebastopol, CA: O’Reilly; 2nd. Ed. 2016. 492 p.
+
+
