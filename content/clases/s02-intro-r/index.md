@@ -1,5 +1,5 @@
 ---
-title: "Sesión 02 - Introducción al uso de R y RStudio"
+title: "Sesión 02 - Introducción al uso de R y Positron"
 subtitle: "11 de septiembre de 2025"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
 date: 2025-09-08
