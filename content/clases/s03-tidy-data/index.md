@@ -1,9 +1,10 @@
 ---
 title: "Sesión 03 - Introducción al Tidy Data"
-subtitle: "24 de septiembre de 2024"
-excerpt: "Sesión de introducción a la gestión y procesamiento de datos usando la filosofía del Tidy Data"
-date: "2026-02-28"
-author: José Luis Texcalac Sangrador
+author: "José Luis Texcalac Sangrador"
+date: "2025-09-12"
+excerpt: Sesión de introducción a la gestión y procesamiento de datos usando la filosofía
+  del Tidy Data
+subtitle: 18 de septiembre de 2025
 draft: false
 layout: single
 categories: []
@@ -11,11 +12,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S03_Intro_Tidy_Data.pdf
+  url: slides/Diapos.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_03.pdf
+  url: labs/Lab.pdf
 ---
 
 ## Actividades para esta sesión 
@@ -55,7 +56,7 @@ En este video usted profundizará con mayor detalle en los principios del Tidy D
 
 **1. Leer entrada de blog** 
 
-[Organize Your Spreadsheets for Data Analysis and Visualization](https://towardsdatascience.com/organize-your-spreadsheets-for-data-analysis-and-visualization-b1985a31523a)
+[Organize Your Spreadsheets for Data Analysis and Visualization](https://medium.com/data-science/organize-your-spreadsheets-for-data-analysis-and-visualization-b1985a31523a)
 
 &nbsp;
 
