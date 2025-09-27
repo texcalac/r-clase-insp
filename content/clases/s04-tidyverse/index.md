@@ -1,7 +1,7 @@
 ---
-title: "Sesión 04 - Tidyverse: Procesamiento de datos"
+title: "Sesión 04 - Introducción a {ggplot}"
 subtitle: "25 de septiembre de 2025"
-excerpt: "Procesamiento de datos usando verbos de dplyr"
+excerpt: "Visualización de datos usando {ggplot2}"
 date: "2025-09-23"
 author: José Luis Texcalac Sangrador
 draft: false
@@ -11,11 +11,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S04_ggplot.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab.pdf
+  url: labs/Lab_04.pdf
 ---
 
 ## Actividades para esta sesión 
