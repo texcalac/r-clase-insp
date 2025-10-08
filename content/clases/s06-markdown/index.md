@@ -37,10 +37,9 @@ comprobantes que se le indican en el archivo de instrucciones correspondiente.
 Este video nos explica de forma breve la redacción de código utilizando el 
 lenguaje de marcado Markdown.
 
+**3. Ver video: [What is R Markdown?](https://youtu.be/asHhuHRxhvo) (15:14)**
 
-**3. Ver video: [Markdown: La mejor forma de tomar apuntes](https://youtu.be/X5mkZXmaKp4) (3:11 min)**
-
-Este video nos explica de forma breve la utilidad de redactar texto en formato Markdown.
+Este video explica la diversidad de opciones para redactar un documento con formato de markdown usando R
 
 
 &nbsp;
@@ -48,9 +47,9 @@ Este video nos explica de forma breve la utilidad de redactar texto en formato M
 
 ### Optativas
 
-**1. Ver video: [Aprende lo Básico de R Markdown en 20 Minutos](https://youtu.be/6Qj8yBFgT9Q)**
+**1. Ver video: [Markdown: La mejor forma de tomar apuntes](https://youtu.be/X5mkZXmaKp4) (3:11 min)**
 
-Este video explica como generar un documento de markdown usando R
+Este video nos explica de forma breve la utilidad de redactar texto en formato Markdown.
 
 
 &nbsp;
