@@ -39,7 +39,7 @@ lenguaje de marcado Markdown.
 
 **3. Ver video: [What is R Markdown?](https://youtu.be/asHhuHRxhvo) (15:14)**
 
-Este video explica la diversidad de opciones para redactar un documento con formato de markdown usando R
+Este video explica la diversidad de opciones para redactar un documento con formato de Markdown usando R
 
 
 &nbsp;
@@ -61,3 +61,4 @@ Este video nos explica de forma breve la utilidad de redactar texto en formato M
 diapositivas de la sesión esten disponibles.
 
 &nbsp;
+
