@@ -1,5 +1,5 @@
 ---
-title: "Sesión 07 - Tidyverse {forcats, lubridate. stringr}"
+title: "Sesión 08 - Tidyverse {forcats, lubridate. stringr}"
 subtitle: "23 de octubre de 2025"
 excerpt: "Trabajando con factores, fechas y datos de texto"
 date: "2025-10-20"
