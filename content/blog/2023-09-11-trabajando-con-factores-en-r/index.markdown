@@ -4,6 +4,7 @@ subtitle:
 excerpt: "Factores en R"
 author: "José Luis Texcalac Sangrador"
 date: '2023-09-11'
+draft: false
 slug: []
 categories: []
 tags: []
@@ -16,28 +17,8 @@ Una tarea recurrente cuando trabajamos en el procesamiento de datos, es la trans
 Cargamos las librerías a utilizar
 
 
-```r
+``` r
 library(dplyr)
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
 library(stringr)
 ```
 
@@ -45,7 +26,7 @@ Generemos una `tabla` de ejemplo usando una semilla para la reproducibilidad de
 resultados.
 
 
-```r
+``` r
 set.seed(1234)
 
 tabla <- 
@@ -75,7 +56,7 @@ tabla <-
 Demos un vistazo a la estructura de la `tabla`
 
 
-```r
+``` r
 glimpse(tabla)
 ```
 
@@ -93,7 +74,7 @@ información, la tabla las tiene codificadas como numéricas. Generemos medidas 
 resumen de la `tabla` y veamos las implicaciones de considerarlas como numéricas
 
 
-```r
+``` r
 summary(tabla)
 ```
 
@@ -136,8 +117,11 @@ convertimos a la variable _ent_ a tipo factor y la sobreescribimos bajo el mismo
 nombre en la tabla.
 
 
-```r
-tabla <- tabla %>% mutate(ent = factor(ent)) %>% print()
+``` r
+tabla <- 
+  tabla %>% 
+  mutate(ent = factor(ent)) %>% 
+  print()
 ```
 
 ```
@@ -160,7 +144,7 @@ Nuevamente ejecutamos el comando _summary()_ y vemos el cambio en el resultado,
 ahora obtendremos la frecuencia de cada uno de los niveles en la malla de datos.
 
 
-```r
+``` r
 summary(tabla)
 ```
 
@@ -184,7 +168,7 @@ variable _sexo_ está codificada con valores 1 y 2, en consecuencia podemos
 especificar dichos niveles al momento de transformar la variable _sexo_ a factor.
 
 
-```r
+``` r
 tabla <- 
   tabla %>% 
   mutate(sexo = factor(sexo, levels = c(1, 2))) %>% 
@@ -211,7 +195,7 @@ Nuevamente visualizamos el _summary_ de la tabla y veremos el resultado con las
 frecuencias para cada nivel
 
 
-```r
+``` r
 summary(tabla)
 ```
 
@@ -237,7 +221,7 @@ respectivamente. A partir de esta información, podemos transformar la variable
 etiquetas.
 
 
-```r
+``` r
 tabla <- 
   tabla %>% 
   mutate(edo_civ = factor(edo_civ, 
@@ -267,7 +251,7 @@ anteriores, las frecuencias de cada uno de los niveles. Note que ahora los
 valores 1,2 y 3 fueron sustituidos de la tabla por las respectivas etiquetas.
 
 
-```r
+``` r
 summary(tabla)
 ```
 
