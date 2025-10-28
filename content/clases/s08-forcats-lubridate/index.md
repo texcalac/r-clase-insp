@@ -1,7 +1,7 @@
 ---
-title: "Sesión 08 - Tidyverse {forcats, lubridate. stringr}"
+title: "Sesión 08 - Tidyverse {forcats}, {lubridate}"
 subtitle: "23 de octubre de 2025"
-excerpt: "Trabajando con factores, fechas y datos de texto"
+excerpt: "Trabajando con factores y fechas"
 date: "2025-10-20"
 author: José Luis Texcalac Sangrador
 draft: false
@@ -11,11 +11,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S07_Forcats_lubridate.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab.pdf
+  url: labs/Lab_08.pdf
 ---
 
 ## Actividades para esta sesión 
