@@ -1,5 +1,5 @@
 ---
-title: "Sesión 11 - Introducción a los SIG"
+title: "Sesión 13 - Introducción a los SIG"
 subtitle: "28 de noviembre de 2025"
 excerpt: "Mallas de datos de covid, población y sun"
 date: "2025-11-25"
@@ -61,7 +61,3 @@ diapositivas de la sesión esten disponibles.
 indicaciones del laboratorio a desarrollar sean publicadas.
 
 &nbsp;
-
-
-
-
