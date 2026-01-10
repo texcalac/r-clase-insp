@@ -1,7 +1,7 @@
 ---
-title: "Sesión 15 - Georeferencia y mapas con {tmap}"
+title: "Sesión 15 - Georeferencia y geocodificación"
 subtitle: "11 de diciembre de 2025"
-excerpt: "Georeferencia, geocodificación y mapas temáticos con {tmap}"
+excerpt: "Georeferencia y geocodificación"
 date: "2025-12-11"
 author: José Luis Texcalac Sangrador
 draft: false
@@ -11,7 +11,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S12_Georeferencia_tmap.pdf
+  url: slides/S12_Georeferencia_geocod.pdf
 - icon: flask
   icon_pack: fas
   name: lab
