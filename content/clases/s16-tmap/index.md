@@ -4,7 +4,7 @@ subtitle: "08 de enero de 2026"
 excerpt: "Mapas temáticos usando {tmap}"
 date: "2026-01-08"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:
