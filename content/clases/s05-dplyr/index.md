@@ -4,7 +4,7 @@ subtitle: "02 de octubre de 2025"
 excerpt: "Procesamiento de datos usando {dplyr}"
 date: "2025-09-26"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

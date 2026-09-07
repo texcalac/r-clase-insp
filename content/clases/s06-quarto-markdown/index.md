@@ -5,7 +5,7 @@ excerpt: Redacción de documentos e informes utilizando Markdown
 date: "2025-10-08"
 publishdate: "2025-10-08"
 author: "José Luis Texcalac Sangrador"
-draft: false
+draft: true
 layout: single
 categories: []
 links:

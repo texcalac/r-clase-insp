@@ -4,7 +4,7 @@ subtitle: "23 de octubre de 2025"
 excerpt: "Trabajando con factores y fechas"
 date: "2025-10-20"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

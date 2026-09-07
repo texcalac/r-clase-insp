@@ -4,7 +4,7 @@ subtitle: "06 de noviembre de 2025"
 excerpt: "Datos en formato transversal, longoitudinal y uniones de mallas de datos"
 date: "2025-11-05"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

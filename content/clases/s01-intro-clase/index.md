@@ -4,7 +4,7 @@ subtitle: "04 de septiembre de 2025"
 excerpt: "Sesión de introducción a los contenidos del curso, forma de evaluación y consideraciones generales."
 date: 2025-09-04
 author: "José Luis Texcalac Sangrador"
-draft: false
+draft: true
 layout: single
 categories: []
 links:

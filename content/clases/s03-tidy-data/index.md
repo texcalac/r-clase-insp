@@ -5,7 +5,7 @@ date: "2025-09-12"
 excerpt: Sesión de introducción a la gestión y procesamiento de datos usando la filosofía
   del Tidy Data
 subtitle: 18 de septiembre de 2025
-draft: false
+draft: true
 layout: single
 categories: []
 links:

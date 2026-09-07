@@ -4,7 +4,7 @@ subtitle: "20 de noviembre de 2025"
 excerpt: "Gráficos dinámicos y animados"
 date: "2025-11-20"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

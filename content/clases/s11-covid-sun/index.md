@@ -4,7 +4,7 @@ subtitle: "13 de noviembre de 2025"
 excerpt: "Mallas de datos de covid, población y sun"
 date: "2025-11-13"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

@@ -4,7 +4,7 @@ subtitle: "30 de octubre de 2025"
 excerpt: "Trabajando con datos de texto y NA"
 date: "2025-10-28"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

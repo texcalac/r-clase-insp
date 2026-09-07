@@ -4,7 +4,7 @@ subtitle: "25 de septiembre de 2025"
 excerpt: "Visualización de datos usando {ggplot2}"
 date: "2025-09-23"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

@@ -4,7 +4,7 @@ subtitle: "11 de diciembre de 2025"
 excerpt: "Georeferencia y geocodificación"
 date: "2025-12-11"
 author: José Luis Texcalac Sangrador
-draft: false
+draft: true
 layout: single
 categories: []
 links:

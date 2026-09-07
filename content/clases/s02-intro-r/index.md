@@ -4,7 +4,7 @@ subtitle: "11 de septiembre de 2025"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
 date: 2025-09-08
 author: "José Luis Texcalac Sangrador"
-draft: false
+draft: true
 layout: single
 categories: []
 links:
