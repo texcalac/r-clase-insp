@@ -4,7 +4,7 @@ subtitle: "Sesión del jueves 10 de septiembre de 2026"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
 date: 2026-09-10
 author: "José Luis Texcalac Sangrador"
-draft: true
+draft: false
 layout: single
 categories: []
 links:
