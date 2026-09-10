@@ -1,9 +1,9 @@
 ---
 title: "Sesión 14 - Capas, mapas y procesos espaciales"
-subtitle: "04 de diciembre de 2025"
-excerpt: "Despliegue de capas de información y procesos de análisis espacial"
+author: "José Luis Texcalac Sangrador"
 date: "2025-12-04"
-author: José Luis Texcalac Sangrador
+excerpt: Despliegue de capas de información y procesos de análisis espacial
+subtitle: 04 de diciembre de 2025
 draft: true
 layout: single
 categories: []
