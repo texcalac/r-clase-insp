@@ -1,9 +1,9 @@
 ---
 title: "Sesión 15 - Georeferencia y geocodificación"
-subtitle: "11 de diciembre de 2025"
-excerpt: "Georeferencia y geocodificación"
+author: "José Luis Texcalac Sangrador"
 date: "2025-12-11"
-author: José Luis Texcalac Sangrador
+excerpt: Georeferencia y geocodificación
+subtitle: 11 de diciembre de 2025
 draft: true
 layout: single
 categories: []
