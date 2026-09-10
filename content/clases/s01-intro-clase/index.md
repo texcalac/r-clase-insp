@@ -1,10 +1,10 @@
 ---
 title: "Sesión 01 - Introducción al curso"
-subtitle: "04 de septiembre de 2025"
+subtitle: "Sesión del viernes 04 de septiembre de 2026"
 excerpt: "Sesión de introducción a los contenidos del curso, forma de evaluación y consideraciones generales."
-date: 2025-09-04
+date: 2026-09-04
 author: "José Luis Texcalac Sangrador"
-draft: true
+draft: false
 layout: single
 categories: []
 links:
@@ -20,9 +20,11 @@ links:
 
 ## Sesión de Introducción
 
-En esta sesión se compartirá información de la clase, la logística del curso y la forma de evaluar.
+En esta sesión se compartirá información de la clase, la logística del curso y 
+la forma de evaluar.
 
-Descargue la [guía de instalación](/files/Instalar_R_y_RStudio.pdf) y siga todas las indicaciones que el documento refiere, esta actividad es **obligatoria**.
+Descargue la [guía de instalación](/files/Instalar_R_y_RStudio.pdf) y siga todas 
+las indicaciones que el documento refiere, esta actividad es **obligatoria**.
 
 -   Es necesario siga al pie de la letra las indicaciones de la guía
 
