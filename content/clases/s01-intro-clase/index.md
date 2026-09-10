@@ -23,7 +23,7 @@ links:
 En esta sesión se compartirá información de la clase, la logística del curso y 
 la forma de evaluar.
 
-Descargue la [guía de instalación](/files/Instalar_R_y_RStudio.pdf) y siga todas 
+Descargue la [guía de instalación](/files/Instalar_R_y_Positron.pdf) y siga todas 
 las indicaciones que el documento refiere, esta actividad es **obligatoria**.
 
 -   Es necesario siga al pie de la letra las indicaciones de la guía

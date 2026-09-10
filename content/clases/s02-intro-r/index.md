@@ -1,8 +1,8 @@
 ---
 title: "Sesión 02 - Introducción al uso de R y Positron"
-subtitle: "11 de septiembre de 2025"
+subtitle: "Sesión del jueves 10 de septiembre de 2026"
 excerpt: "Sesión de introducción al uso de R y RStudio para el procesamiento, visualicación y análisis de datos"
-date: 2025-09-08
+date: 2026-09-10
 author: "José Luis Texcalac Sangrador"
 draft: true
 layout: single
@@ -11,11 +11,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S02_Intro_R.pdf
+  url: slides/Diapos.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_02.pdf
+  url: labs/Lab.pdf
 ---
 
 ## Actividades para esta sesión 
@@ -25,7 +25,7 @@ Previo a esta sesión usted debió haber realizado las siguientes actividades.
 
 ### Obligatorias
 
-**1. Instalar R y RStudio según la [guía de instalación](/files/Instalar_R_y_RStudio.pdf)**
+**1. Instalar R y Positron según la [guía de instalación](/files/Instalar_R_y_Positron.pdf)**
 
 Usted debió revisar con detenimiento la guía e instalar los programas según las indicaciones así como también los programas complementarios de acuerdo al sistema operativo que usted utiliza (Rtools, Xcode, etc.)
 
