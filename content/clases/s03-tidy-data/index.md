@@ -1,10 +1,10 @@
 ---
 title: "Sesión 03 - Introducción al Tidy Data"
 author: "José Luis Texcalac Sangrador"
-date: "2025-09-12"
+date: "2026-09-14"
 excerpt: Sesión de introducción a la gestión y procesamiento de datos usando la filosofía
   del Tidy Data
-subtitle: 18 de septiembre de 2025
+subtitle: Sesión del 17 de septiembre de 2026
 draft: true
 layout: single
 categories: []
@@ -12,11 +12,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S03_Tidyverse.pdf
+  url: slides/Diapos.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_03.pdf
+  url: labs/Lab.pdf
 ---
 
 ## Actividades para esta sesión 
