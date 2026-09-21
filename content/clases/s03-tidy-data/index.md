@@ -12,11 +12,11 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/Diapos.pdf
+  url: slides/S03_Intro_tidyverse_ggplot.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab.pdf
+  url: labs/Lab_03.pdf
 ---
 
 ## Actividades para esta sesión 
