@@ -4,7 +4,7 @@ subtitle: "Sesión del 24 de septiembre de 2026"
 excerpt: "Procesamiento de datos usando {dplyr}"
 date: "2026-09-24"
 author: José Luis Texcalac Sangrador
-draft: true
+draft: false
 layout: single
 categories: []
 links:
