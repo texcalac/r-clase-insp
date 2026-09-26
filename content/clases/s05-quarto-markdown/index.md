@@ -27,7 +27,7 @@ Previo a esta sesión usted debió haber realizado las siguientes actividades.
 
 ### Obligatorias
 
-**1. Realizar el Laboratorio 05**
+**1. Realizar el Laboratorio 04**
 Para evaluar esta actividad usted deberá subir a Google Classroom los 
 comprobantes que se le indican en el archivo de instrucciones correspondiente.
 
