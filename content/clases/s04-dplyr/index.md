@@ -1,8 +1,8 @@
 ---
-title: "Sesión 04 - Introducción a {ggplot}"
-subtitle: "25 de septiembre de 2025"
-excerpt: "Visualización de datos usando {ggplot2}"
-date: "2025-09-23"
+title: "Sesión 04 - Procesamiento de datos con {dplyr}"
+subtitle: "Sesión del 24 de septiembre de 2026"
+excerpt: "Procesamiento de datos usando {dplyr}"
+date: "2026-09-24"
 author: José Luis Texcalac Sangrador
 draft: true
 layout: single
@@ -11,7 +11,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S04_ggplot.pdf
+  url: slides/S04_dplyr.pdf
 - icon: flask
   icon_pack: fas
   name: lab

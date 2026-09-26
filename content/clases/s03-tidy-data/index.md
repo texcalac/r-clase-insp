@@ -1,5 +1,5 @@
 ---
-title: "Sesión 03 - Introducción al Tidy Data"
+title: "Sesión 03 - Tidy Data y gráficos con ggplot"
 author: "José Luis Texcalac Sangrador"
 date: "2026-09-14"
 excerpt: Sesión de introducción a la gestión y procesamiento de datos usando la filosofía
