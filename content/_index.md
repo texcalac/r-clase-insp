@@ -1,5 +1,5 @@
 ---
-title: "Procesamiento y visualización de datos espaciales en R"
+title: "Procesamiento, visualización y modelado de datos espaciales en R"
 subtitle: "Escuela de Salud Pública de México - INSP"
 description: ""
 date: 2019-02-18T12:27:33-06:00

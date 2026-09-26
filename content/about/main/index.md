@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "Procesamiento y visualización de datos espaciales en R" # leave blank to exclude
+title: "Procesamiento, visualización y modelado de datos espaciales en R" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 0 # set to zero to exclude
 show_intro: true
