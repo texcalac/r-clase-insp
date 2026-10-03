@@ -1,6 +1,6 @@
 ---
 title: "Sesión 06 - Repaso"
-subtitle: "08 de octubre de 2026"
+subtitle: "Sesión del 08 de octubre de 2026"
 excerpt: "Trabajando con factores, fechas y datos de texto"
 date: "2026-10-02"
 author: José Luis Texcalac Sangrador
