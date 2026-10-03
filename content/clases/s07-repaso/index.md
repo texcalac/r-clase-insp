@@ -1,10 +1,10 @@
 ---
-title: "Sesión 07 - Repaso"
-subtitle: "16 de octubre de 2025"
+title: "Sesión 06 - Repaso"
+subtitle: "08 de octubre de 2026"
 excerpt: "Trabajando con factores, fechas y datos de texto"
-date: "2025-10-16"
+date: "2020-10-02"
 author: José Luis Texcalac Sangrador
-draft: true
+draft: false
 layout: single
 categories: []
 ---
@@ -18,9 +18,12 @@ Previo a esta sesión usted debió haber realizado las siguientes actividades.
 
 ### Obligatorias
 
-**1. Realizar el Laboratorio 06**
+**1. Realizar el Laboratorio 05**
+
 Para evaluar esta actividad usted deberá subir a Google Classroom los 
 comprobantes que se le indican en el archivo de instrucciones correspondiente.
 
-**No se requieren actividades adicionales, será una clase de repaso dónde usted podrá consultar sus dudas sobre los contenidos revisados hasta esta parte del curso.**
+**No se requieren actividades adicionales**, será una clase de repaso dónde usted 
+podrá consultar sus dudas sobre los contenidos revisados hasta esta parte del 
+curso.
 
