@@ -1,6 +1,6 @@
 ---
 title: "Sesión 07 - Tidyverse {forcats}, {lubridate}"
-subtitle: "15 de octubre de 2026"
+subtitle: "Sesión del 15 de octubre de 2026"
 excerpt: "Trabajando con factores y fechas"
 author: José Luis Texcalac Sangrador
 date: "2026-10-08"
