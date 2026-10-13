@@ -7,6 +7,11 @@ author: José Luis Texcalac Sangrador
 draft: false
 layout: single
 categories: []
+links:
+- icon: flask
+  icon_pack: fas
+  name: lab
+  url: labs/Lab_06.pdf
 ---
 
 ## Actividades para esta sesión 
