@@ -1,21 +1,22 @@
 ---
-title: "Sesión 08 - Tidyverse {forcats}, {lubridate}"
-subtitle: "23 de octubre de 2025"
-excerpt: "Trabajando con factores y fechas"
-date: "2025-10-20"
+title: "Sesión 07 - Tidyverse {forcats}"
+subtitle: "Sesión del 15 de octubre de 2026"
+excerpt: "Trabajando con factores"
 author: José Luis Texcalac Sangrador
-draft: true
+date: "2026-10-08"
+lang: es
+draft: false
 layout: single
 categories: []
 links:
 - icon: magic
   icon_pack: fas
   name: diapos
-  url: slides/S07_Forcats_lubridate.pdf
+  url: slides/Diapos.pdf
 - icon: flask
   icon_pack: fas
   name: lab
-  url: labs/Lab_08.pdf
+  url: labs/Lab_07.pdf
 ---
 
 ## Actividades para esta sesión 
@@ -37,10 +38,6 @@ Este video nos explica de forma breve el trabajo con factores en R.
 **3. Leer: [Trabajando con factores en R](https://r-clase-insp.netlify.app/blog/2023-09-11-trabajando-con-factores-en-r/)**
 
 Descripción y ejemplos de como trabajar con factores en R.
-
-**4. Leer: [Manipulación de texto utilizando el paquete stringr en programación R](https://youtu.be/nn_m3aBPDoI) (8:33 min)**
-
-**5. Leer: [how to manipulate date and time data in R](https://youtu.be/g4JF_Ew8qEc) (18:04 min)**
 
 &nbsp;
 
