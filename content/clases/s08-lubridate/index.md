@@ -1,7 +1,7 @@
 ---
-title: "Sesión 08 - Tidyverse {lubridate}, {stringr}"
+title: "Sesión 08 - Tidyverse {lubridate}"
 subtitle: "Sesión del 22 de octubre de 2026"
-excerpt: "Trabajando con fechas y texto"
+excerpt: "Trabajando con fechas"
 author: José Luis Texcalac Sangrador
 date: "2026-10-15"
 lang: es
@@ -31,9 +31,7 @@ Previo a esta sesión usted debió haber realizado las siguientes actividades.
 Para evaluar esta actividad usted deberá subir a Google Classroom los 
 comprobantes que se le indican en el archivo de instrucciones correspondiente (revisar sesión 07 en la página del curso).
 
-**2. Ver video: [Manipulación de texto utilizando el paquete stringr en programación R](https://youtu.be/nn_m3aBPDoI) (8:33 min)**
-
-**3. Ver video: [how to manipulate date and time data in R](https://youtu.be/g4JF_Ew8qEc) (18:04 min)**
+**2. Ver video: [how to manipulate date and time data in R](https://youtu.be/g4JF_Ew8qEc) (18:04 min)**
 
 &nbsp;
 
