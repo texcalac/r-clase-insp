@@ -3,7 +3,7 @@ title: "Sesión 09 - Tidyverse {stringr}"
 subtitle: "Sesión del 29 de octubre de 2026"
 excerpt: "Trabajando con datos de texto y NA"
 author: José Luis Texcalac Sangrador
-date: "2025-10-22"
+date: "2026-10-22"
 lang: es
 draft: false
 layout: single
